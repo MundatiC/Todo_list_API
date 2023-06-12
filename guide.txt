@@ -1,0 +1,5 @@
+// building api using node - express
+// create the server/app
+// routes
+// implement controllers // route handlers
+// using environment variables
